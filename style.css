@@ -1,8 +1,8 @@
 *,
 html,
 body {
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 }
 
 .nav {
-    height:100%;
+    height: 100px;
 }
 
 .struktur {
@@ -61,7 +61,7 @@ body {
 }
 
 .bungkus {
-    width: 60rem;
+    width: 85rem;
     justify-content: center;
     display: flex;
     align-items: center;
