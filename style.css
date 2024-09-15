@@ -1,8 +1,8 @@
 *,
 html,
 body {
-    padding: 0;
-    margin: 0;
+    padding: 0%;
+    margin: 0%;
 }
 
 body {
@@ -30,6 +30,10 @@ body {
 
 .su p {
     color: black;
+}
+
+.nav {
+    height:100%;
 }
 
 .struktur {
